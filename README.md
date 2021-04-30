@@ -1,4 +1,4 @@
-# MediaMonks - Frontend Coding Standards
+ Frontend Coding Standards
 
 [Based on Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/)
 
